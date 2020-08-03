@@ -6519,6 +6519,8 @@ Business Template is a set of definitions, such as skins, portal types and categ
       'Products.ERP5Type.mixin.json_representable',
       'Products.ERP5Type.XMLExportImport',
       'Products.ERP5Type.mixin.property_translatable',
+      'Products.ERP5Type.Error',
+      'Products.ERP5Type.Errors',
       'Products.ERP5Type.Base',
       'Products.ERP5Type.Tool.BaseTool',
       'Products.ERP5Type.ERP5Type',
